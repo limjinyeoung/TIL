@@ -2,6 +2,8 @@
  ui script만들기
 2. 차 속도 레벨링
  시간에 따라..
+
+
 3. 리셋 (수욜)
  reset, pause 두개버튼 ui 
  gameManager script 만들기
